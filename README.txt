@@ -4,7 +4,7 @@ a real-time relation analysis service.
 
 Given a relation id, it tests for validation of multipolygons of any kind, admin boundaries (and also linear relations to some extend).
 
-You can use permalinks of the form: http://server.tld/cgi-bin/index.py?relation=123456.
+You can use permalinks of the form:  http://analyser.openstreetmap.fr/cgi-bin/index.py?relation=123456.
 
 See also discussion page on OSM Wiki https://wiki.openstreetmap.org/wiki/FR_talk:Serveurs/analyser.openstreetmap.fr
 
