@@ -11,8 +11,7 @@
         <Directory /data/project/analyser/cgi-bin/>
                 AllowOverride None
                 Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
-                Order allow,deny
-                Allow from all
+                Require all granted
         </Directory>
 
         ErrorLog /var/log/apache2/analyser-error.log
